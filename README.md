@@ -1,7 +1,7 @@
 # products-ecommerce
 
 ## Simple Laravel application with livewire, tailwind, echo and pusher
-This application demonstrats consuming a 3rd party API to import products.
+This application demonstrates  consuming a 3rd party API to import products.
 
 ## Stack
 - Laravel
